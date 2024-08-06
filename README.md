@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/mohamed-khalil-khamassi-474777176"/>
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
