@@ -25,3 +25,13 @@
   &nbsp;&nbsp;
 </p>
 
+<h2 align="center"> Skills :hammer_and_wrench: </h2>
+
+* **Containerization & Orchestration**: Docker, Docker-Swarm
+* **Configuration Management & Infrastructure as Code**: Ansible, Terraform
+* **Backup & Recovery**: Veeam Backup
+* **Server Administration**: Linux Server Administration, Windows Server Administration
+* **Cloud Platforms**: Azure
+* **Scripting & Automation**: PowerShell, Python, Bash
+* **CI/CD Tools**: Azure DevOps, GitLab
+* **Monitoring & Logging**: Grafana, Prometheus, Zabbix, ELK (Elasticsearch, Logstash, Kibana)
