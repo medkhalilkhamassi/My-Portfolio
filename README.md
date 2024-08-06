@@ -12,4 +12,5 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-green)](https://yourwebsite.com/yourresume.pdf)
 &nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-Visit-red)](https://yourwebsite.com)
+&nbsp;&nbsp;
 
