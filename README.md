@@ -35,3 +35,31 @@
 * **Scripting & Automation**: PowerShell, Python, Bash
 * **CI/CD Tools**: Azure DevOps, GitLab
 * **Monitoring & Logging**: Grafana, Prometheus, Zabbix, ELK (Elasticsearch, Logstash, Kibana)
+
+<h2 align="center"> :briefcase: Work Experiences </h2>
+
+* **Cloud Systems Engineer**
+    * **Company** : Mantu
+    * **Duration** : Dec 2023 - Present
+    * **Location** : Tunisia
+    * **Responsabilities** :
+        * Oversaw the management and maintenance of the entire backup infrastructure, ensuring 99.9% uptime and reliability. 
+        * Led the migration from Azure Automation Patch Management to Azure Update Manager.
+        * Spearheaded the migration to Azure Arc objects for on-prem servers.
+        * Designed and implemented backup-as-code infrastructure, automating 85% of backup processes and reducing manual intervention by 70%.
+        * Handled Level 3 (L3) support tickets.
+
+
+* **Junior IT System Administrator**
+    * **Company** : Assist Digital
+    * **Duration** : Feb 2023 - Oct 2023
+    * **Location** : Tunisia
+    * **Responsabilities** :
+        * Installed and configured a Grafana/Prometheus monitoring solution for on-prem infrastructure.
+        * Developed PowerShell scripts to manage on-prem infrastructure.
+        * Managed Level 1 (L1) support tickets.
+
+
+
+
+
