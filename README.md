@@ -1,6 +1,4 @@
-<center>
-
+<p aligh="center">
 # Mohamed Khalil Khamassi
 ## Portfolio
-
-</center>
+</p>
