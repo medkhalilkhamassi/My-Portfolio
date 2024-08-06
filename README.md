@@ -11,16 +11,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/yourusername/">
+  <a href= "https://github.com/medkhalilkhamassi">
     <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="https://yourwebsite.com/yourresume.pdf">
+  <a href="https://drive.google.com/file/d/1N_of2MiSRMxZt1BC7MqgGqhSqk94f4Qm/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download-green" alt="Resume">
   </a>
   &nbsp;&nbsp;
   <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-Visit-red" alt="Website">
+    <img src="https://img.shields.io/badge/Website-Visit-red" alt="Website / in progress">
   </a>
   &nbsp;&nbsp;
 </p>
