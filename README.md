@@ -5,12 +5,23 @@
 
 <h2 align="center"> Social Links :globe_with_meridians: </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yourusername/)
-&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Download-green)](https://yourwebsite.com/yourresume.pdf)
-&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Website-Visit-red)](https://yourwebsite.com)
-&nbsp;&nbsp;
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yourusername/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yourwebsite.com/yourresume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-green" alt="Resume">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-Visit-red" alt="Website">
+  </a>
+  &nbsp;&nbsp;
+</p>
 
