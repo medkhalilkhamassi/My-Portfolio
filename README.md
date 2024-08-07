@@ -61,7 +61,19 @@
 
 <h2 align="center"> :open_file_folder: Projects </h2>
 
+### Backup-As-Code Infrastructure
+    * **Role**: Project Leader
+    * **Description**: Created a backup-as-code solution using Veeam Backup, Azure VMs, vSphere VMs, Exchange
+databases, PowerShell, Ansible, and Azure DevOps pipelines. Users declare backups in a configuration file
+from a template in the repo, with a pipeline including cost estimation and backup job creation. Integrated
+a monitoring solution using Grafana and Prometheus to display backup job statuses and costs.
+    * **Key Achievements**: Streamlined backup processes by 85%, improved cost management by 40%, and
+enhanced monitoring capabilities with real-time status updates.
 
+<h2 align="center"> :books: Education </h2>
+
+* **Engineering Degree in Cloud Technologies** - **Esprit** - **Ongoing - Expected in 2028**
+* **Bachelor Degree in Mechanical Engineering** - **Iset Rades** - **2022**
 
 <h2 align="center"> :scroll: Recommendations</h2>
 
