@@ -62,6 +62,7 @@
 <h2 align="center"> :open_file_folder: Projects </h2>
 
 * **Backup-As-Code Infrastructure**
+
     * **Role**: Project Leader
     * **Description**: Created a backup-as-code solution using Veeam Backup, Azure VMs, vSphere VMs, Exchange
 databases, PowerShell, Ansible, and Azure DevOps pipelines. Users declare backups in a configuration file
