@@ -68,38 +68,4 @@
 
 <h2 align="center"> :e-mail: Recommendations Me</h2>
 
-<style>
-.card {
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(27,31,35,0.12);
-  padding: 16px;
-  margin: 16px 0;
-}
-
-.card-title {
-  font-size: 1.25em;
-  margin-bottom: 8px;
-  font-weight: bold;
-}
-
-.card-body {
-  margin-bottom: 8px;
-}
-
-.card-link {
-  color: #0366d6;
-  text-decoration: none;
-}
-
-.card-link:hover {
-  text-decoration: underline;
-}
-</style>
-
-<div class="card">
-  <div class="card-title">Name of the Recommender: John Doe</div>
-  <div class="card-body">Recommendation Body: John provided excellent insights and was a great team player...</div>
-  <a href="https://www.linkedin.com/in/johndoe/" class="card-link">Link to LinkedIn Recommendation</a>
-</div>
 
