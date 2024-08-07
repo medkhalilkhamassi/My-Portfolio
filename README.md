@@ -71,22 +71,20 @@
 ### Oussama Kacem
    * **Role**: Team Leader
    * **Relationship**: Direct Manager
-   * **Recommendation**: I had the pleasure to work closly with you and provide service together in a demanding and exciting operation. You are a highly committed person, with exceptional communication and language skills. Your positive and professional attitude in your role and with your team and colleagues, definitely made a difference. with your technical knowledge these are great attributes of value to have, that's why i believe you will achive highy success in your career. Thank you for all the success we enjoyed together.
+   * **Recommendation**: I had the pleasure to work closely with you and provide service together in a demanding and exciting operation. You are a highly committed person, with exceptional communication and language skills. Your positive and professional attitude in your role and with your team and colleagues definitely made a difference. With your technical knowledge, these are great attributes of value to have. That's why I believe you will achieve high success in your career. Thank you for all the success we enjoyed together.
 
 ### Ali Dhehibi
-    * **Role**: IT system administrator
-    * **Relationship**: Senior
-    * **Recommendation**: I am pleased to recommend my current colleague, Khalil. He is a highly skilled IT professional who excels in users support, system administration, and more. Khalil is a strong team player, fostering a collaborative work environment, and has excellent communication skills, making technical information accessible to all. I highly recommend Khalil for any IT role, knowing he will make a significant contribution to any team.
+   * **Role**: IT System Administrator
+   * **Relationship**: Senior
+   * **Recommendation**: I am pleased to recommend my current colleague, Khalil. He is a highly skilled IT professional who excels in user support, system administration, and more. Khalil is a strong team player, fostering a collaborative work environment, and has excellent communication skills, making technical information accessible to all. I highly recommend Khalil for any IT role, knowing he will make a significant contribution to any team.
 
 ### Oumayma Mrayhi
-    * **Role**: Corporate & Soft skills trainer
-    * **Relationship**: Mentor & Trainer
-    * **Recommendation**: I had the pleasure of working closely with Khalil on several critical IT requests when pressured by time, and I am continually impressed by his technical expertise and great communication skills. He has a deep understanding of complex IT systems and consistently delivers proper solutions. Khalil, I wish you all the best in your future Endeavors.
+   * **Role**: Corporate & Soft Skills Trainer
+   * **Relationship**: Mentor & Trainer
+   * **Recommendation**: I had the pleasure of working closely with Khalil on several critical IT requests when pressured by time, and I am continually impressed by his technical expertise and great communication skills. He has a deep understanding of complex IT systems and consistently delivers proper solutions. Khalil, I wish you all the best in your future endeavors.
 
 ### Mouna Hamdi
-    * **Role**: Cloud Infrastructure Engineer
-    * **Relationship**: Senior
-    * **Recommendation**: During our time working together, Khalil consistently demonstrated exceptional communication skills, both in written and verbal form. Their ability to convey complex ideas in a clear and concise manner was impressive.
-
-
+   * **Role**: Cloud Infrastructure Engineer
+   * **Relationship**: Senior
+   * **Recommendation**: During our time working together, Khalil consistently demonstrated exceptional communication skills, both in written and verbal form. His ability to convey complex ideas in a clear and concise manner was impressive.
 
