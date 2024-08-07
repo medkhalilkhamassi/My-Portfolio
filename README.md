@@ -64,12 +64,22 @@
 * **Backup-As-Code Infrastructure**
 
     * **Role**: Project Leader
-    * **Description**: Created a backup-as-code solution using Veeam Backup, Azure VMs, vSphere VMs, Exchange
-databases, PowerShell, Ansible, and Azure DevOps pipelines. Users declare backups in a configuration file
-from a template in the repo, with a pipeline including cost estimation and backup job creation. Integrated
-a monitoring solution using Grafana and Prometheus to display backup job statuses and costs.
+    * **Description**: Created a backup-as-code solution using Veeam Backup, Azure VMs, vSphere VMs, Exchange databases, PowerShell, Ansible, and Azure DevOps pipelines. Users declare backups in a configuration file from a template in the repo, with a pipeline including cost estimation and backup job creation. Integrated a monitoring solution using Grafana and Prometheus to display backup job statuses and costs.
     * **Key Achievements**: Streamlined backup processes by 85%, improved cost management by 40%, and
 enhanced monitoring capabilities with real-time status updates.
+
+
+* **Resource Migration from Automation Update Management to Azure Update Manager**
+
+    * **Role**: Project Leader
+    * **Description**: : Led the migration of resources from the legacy Automation Update Management system to Azure Update Manager, ensuring a seamless transition and improved update management.
+    * **Key Achievements**: Successfully migrated resources with minimal disruption and enhanced update management efficiency.
+
+* **Automating Certificates Renewal Using Pipelines**
+    
+    * **Role**: Project Leader
+    * **Description**: Implemented automated pipelines to streamline certificate renewal, improving security and reducing manual intervention.
+    * **Key Achievements**: Automated 90% of certificate management tasks, reducing manual processes by 80% and improving security by 50%.
 
 <h2 align="center"> :books: Education </h2>
 
