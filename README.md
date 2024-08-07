@@ -63,28 +63,28 @@
 
 
 
-<h2 align="center"> :e-mail: Contact Me</h2>
+<h2 align="center"> :scroll: Recommendations</h2>
 
+**Oussama Kacem - Team Leader**
+> "I had the pleasure to work closely with you and provide service together in a demanding and exciting operation. You are a highly committed person, with exceptional communication and language skills. Your positive and professional attitude in your role and with your team and colleagues definitely made a difference. With your technical knowledge, these are great attributes of value to have. That's why I believe you will achieve high success in your career. Thank you for all the success we enjoyed together."
 
-<h2 align="center"> :e-mail: Recommendations</h2>
+Context: Direct Manager  
+Contact: [Linkedin](https://www.linkedin.com/in/okacem/)
 
-### Oussama Kacem
-   * **Role**: Team Leader
-   * **Relationship**: Direct Manager
-   * **Recommendation**: I had the pleasure to work closely with you and provide service together in a demanding and exciting operation. You are a highly committed person, with exceptional communication and language skills. Your positive and professional attitude in your role and with your team and colleagues definitely made a difference. With your technical knowledge, these are great attributes of value to have. That's why I believe you will achieve high success in your career. Thank you for all the success we enjoyed together.
+**Ali Dhehibi - IT System Administrator**
+> "I am pleased to recommend my current colleague, Khalil. He is a highly skilled IT professional who excels in user support, system administration, and more. Khalil is a strong team player, fostering a collaborative work environment, and has excellent communication skills, making technical information accessible to all. I highly recommend Khalil for any IT role, knowing he will make a significant contribution to any team."
 
-### Ali Dhehibi
-   * **Role**: IT System Administrator
-   * **Relationship**: Senior
-   * **Recommendation**: I am pleased to recommend my current colleague, Khalil. He is a highly skilled IT professional who excels in user support, system administration, and more. Khalil is a strong team player, fostering a collaborative work environment, and has excellent communication skills, making technical information accessible to all. I highly recommend Khalil for any IT role, knowing he will make a significant contribution to any team.
+Context: Senior  
+Contact: [Linkedin](https://www.linkedin.com/in/ali-dhehebi/)
 
-### Oumayma Mrayhi
-   * **Role**: Corporate & Soft Skills Trainer
-   * **Relationship**: Mentor & Trainer
-   * **Recommendation**: I had the pleasure of working closely with Khalil on several critical IT requests when pressured by time, and I am continually impressed by his technical expertise and great communication skills. He has a deep understanding of complex IT systems and consistently delivers proper solutions. Khalil, I wish you all the best in your future endeavors.
+**Oumayma Mrayhi - Corporate & Soft Skills Trainer**
+> "I had the pleasure of working closely with Khalil on several critical IT requests when pressured by time, and I am continually impressed by his technical expertise and great communication skills. He has a deep understanding of complex IT systems and consistently delivers proper solutions. Khalil, I wish you all the best in your future endeavors."
 
-### Mouna Hamdi
-   * **Role**: Cloud Infrastructure Engineer
-   * **Relationship**: Senior
-   * **Recommendation**: During our time working together, Khalil consistently demonstrated exceptional communication skills, both in written and verbal form. His ability to convey complex ideas in a clear and concise manner was impressive.
+Context: Mentor & Trainer  
+Contact: [Linkedin](https://www.linkedin.com/in/oumayma-mrayhi-a771851b8/)
 
+**Mouna Hamdi - Cloud Infrastructure Engineer**
+> "During our time working together, Khalil consistently demonstrated exceptional communication skills, both in written and verbal form. His ability to convey complex ideas in a clear and concise manner was impressive."
+
+Context: Senior  
+Contact: [Linkedin](https://www.linkedin.com/in/mouna-hamdi-3aa13a46/)
