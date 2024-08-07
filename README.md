@@ -69,7 +69,6 @@
 <h2 align="center"> :e-mail: Recommendations</h2>
 
 ### Oussama Kacem
-
    * **Role**: Team Leader
    * **Relationship**: Direct Manager
    * **Recommendation**: 
@@ -78,21 +77,18 @@ You are a highly committed person, with exceptional communication and language s
 Thank you for all the success we enjoyed together.
 
 ### Ali Dhehibi
-
     * **Role**: IT system administrator
     * **Relationship**: Senior
     * **Recommendation**: 
     I am pleased to recommend my current colleague, Khalil. He is a highly skilled IT professional who excels in users support, system administration, and more. Khalil is a strong team player, fostering a collaborative work environment, and has excellent communication skills, making technical information accessible to all. I highly recommend Khalil for any IT role, knowing he will make a significant contribution to any team.
 
 ### Oumayma Mrayhi
-
     * **Role**: Corporate & Soft skills trainer
     * **Relationship**: Mentor & Trainer
     * **Recommendation**: 
     I had the pleasure of working closely with Khalil on several critical IT requests when pressured by time, and I am continually impressed by his technical expertise and great communication skills. He has a deep understanding of complex IT systems and consistently delivers proper solutions. Khalil, I wish you all the best in your future Endeavors.
 
 ### Mouna Hamdi
-
     * **Role**: Cloud Infrastructure Engineer
     * **Relationship**: Senior
     * **Recommendation**:
